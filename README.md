@@ -3,14 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurhromek&label=Profile%20views&color=0e75b6&style=flat" alt="timurhromek" /> </p>
 
-- 🔭 I’m currently working on **HROM-M3**
+- 🔭 I’m currently working on **HROM-M2**
 
-- 🌱 I’m currently learning **Java & React**
-
-- 👯 I’m looking to collaborate on **HROM-M3**
-
-- 🤝 I’m looking for help with **HROM-K3**
-
+- 🌱 I’m currently learning **Java**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/TimurHromek](https://github.com/TimurHromek)
 
 - 📫 How to reach me **hromek.timur@gmail.com**
